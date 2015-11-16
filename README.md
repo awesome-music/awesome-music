@@ -3,7 +3,7 @@ Awesome music list for developers
 
 - [Awesome Music](#awesome-music)
     - [Rock](#rock)
-	- [Funk rock](#funk-rock)
+	- [Funk Rock](#funk-rock)
 
 - - -
 
