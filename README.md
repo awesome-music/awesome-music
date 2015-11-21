@@ -15,4 +15,4 @@ Awesome music list for developers
 
 ## Etc
 
-* [John Legend - P.D.A. (We Just Don't Care)](https://www.youtube.com/watch?v=zLrn3YK0mTY)
+* [John Legend - P.D.A. (We Just Don't Care)](https://www.youtube.com/watch?v=ZwbNesQeods)
